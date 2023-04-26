@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏂🏄‍♂️&fontAlign=70)
 
-### <p align='center'>프론트엔드 개발자 왕태현입니다. </p>
+### <p align='center'>FRONT-END DEVELOPER - WANGTAE</p>
 ### <p align='center'><img src="https://img.shields.io/badge/wangtaeya-E4405F?style=flat&logo=instagram&logoColor=ffffff"/> <img src="https://img.shields.io/badge/wangtae0320@gmail.com-4285F4?style=flat&logo=google&logoColor=ffffff"/>
 </p>
 
@@ -9,9 +9,9 @@
 </p>
 
 
-### <p align='center'>**Tech Stack**</p>
+### <p align='center'>**TECH-STACK**</p>
 <P align='center'>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/mobx-FF9955?style=flat&logo=mobx&logoColor=white"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/mobx-FF9955?style=flat&logo=mobx&logoColor=white"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled_components&logoColor=white"/>
 <img src="https://img.shields.io/badge/ionic-3880FF?style=flat&logo=ionic&logoColor=white"/>
 <img src="https://img.shields.io/badge/blockchain-121D33?style=flat&logo=blockchaindotcom&logoColor=white"/>
 </p>
