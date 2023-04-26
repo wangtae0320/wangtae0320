@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🏂🏄‍♂️&fontAlign=70)
 
-### <p align='center'>FRONT-END DEVELOPER - WANGTAE</p>
+### <p align='center'>FRONT - END DEVELOPER</p>
+### <p align='center'>WANG TAE HYEON</p>
 ### <p align='center'><img src="https://img.shields.io/badge/wangtaeya-E4405F?style=flat&logo=instagram&logoColor=ffffff"/> <img src="https://img.shields.io/badge/wangtae0320@gmail.com-4285F4?style=flat&logo=google&logoColor=ffffff"/>
 </p>
 
